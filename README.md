@@ -1,4 +1,4 @@
-[![Github All Releases](https://img.shields.io/github/downloads/turbosmurfen/VLCSay/total.svg)
+[![Github All Releases](https://img.shields.io/github/downloads/turbosmurfen/vlcsay/total.svg)
 # VLCSay - VLC Now Playing for mIRC  
 
 ![VLCSay on mIRC 7.76](https://github.com/turbosmurfen/VLCSay/blob/main/img/vlcsay.png)
