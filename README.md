@@ -14,7 +14,7 @@ VLCSay running on mIRC
 
 # Installation 
 
-1. Download `vlcsay_vx.x.x.zip` zip archive of Spoton in Assets in the [Releases](https://github.com/turbosmurfen/VLCSay/releases/latest) section.
+1. Download `vlcsay_vx.x.x.zip` zip archive of VLCSay in Assets in the [Releases](https://github.com/turbosmurfen/VLCSay/releases/latest) section.
 2. If you don't have `Visual C++ Redistributable 2015-2022 (x86)` installed, download from here: [https://aka.ms/vs/17/release/vc_redist.x86.exe](https://aka.ms/vs/17/release/vc_redist.x86.exe).  
 3. Right Click on the archive which is named _vlcsay_vx.x.x.zip_, extract the archive.  
    * Optional - verify the hash: 
@@ -95,6 +95,4 @@ alias vnp {
 
 ## Credits
 
-I have learned more about making mIRC reading and writing for DLL-file from [Wikichip](https://en.wikichip.org/wiki/mirc/dynamic-link_library)   
-Thanks to [@moobsmc](https://github.com/moobsmc) for Stop Control for Spotify.  
-Thanks to [@Madis0](https://github.com/Madis0) for helping me with the readme and other things.  
+I have learned more about making mIRC reading and writing for DLL-file from [Wikichip](https://en.wikichip.org/wiki/mirc/dynamic-link_library)    
